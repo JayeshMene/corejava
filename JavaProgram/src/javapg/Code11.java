@@ -1,6 +1,6 @@
 package javapg;
 
-public class Code11 {
+public class Code11 {	 //TERNARY OPERATOR
 
 	public static void main(String[] args) {
 		

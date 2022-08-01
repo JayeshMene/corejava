@@ -21,7 +21,7 @@ package javapg;
 		System.out.println("6373");
 	} 
 	
-}  when we declare a class as a final it can't be extended or inherited to sub class
+}  when we declare a class as a final it can't be extended or inherited to sub class.
 */ 
 public class FinalCla {
 

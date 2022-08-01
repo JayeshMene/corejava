@@ -1,6 +1,6 @@
 package javapg;
 
-public class Code3 {
+public class Code3 { // PRIMITIVE DATATYPE - FLOAT
 
 	public static void main(String[] args) {
 		 
@@ -11,8 +11,8 @@ public class Code3 {
 		 System.out.println("value2 = "+ value2);
 		 System.out.println("value3 = "+ value3);  */
 		 
-		 int marks = 567;
-		 double percentage = marks * 0.36f;
+		 int marks = 570;
+		 double percentage = marks * 0.26f;
 		 System.out.println("Percentage = "+ percentage);
 		 
 

@@ -1,6 +1,6 @@
 package javapg;
 
-public class Code4 {
+public class Code4 {  // BOOLEAN AND UNICODE 
 
 	public static void main(String[] args) {
 		boolean var= false;

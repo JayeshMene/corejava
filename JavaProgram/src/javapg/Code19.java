@@ -1,6 +1,6 @@
 package javapg;
 
-public class Code19 {
+public class Code19 {		//WHILE LOOP
 
 	public static void main(String[] args) {
 		

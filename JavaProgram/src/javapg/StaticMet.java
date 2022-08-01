@@ -12,7 +12,7 @@ class Abc2
 }
 class Xyz2
 {
-	void disp()		//Instance method 
+	void disp()		//local method 
 	{
 		int a = Abc2.add(); //Calling Static method
 		System.out.println("Addition = " + a);
