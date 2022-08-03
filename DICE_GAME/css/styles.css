@@ -1,0 +1,39 @@
+.container
+{
+  text-align: center;
+  margin:auto;
+  width:70%;
+}
+.dice
+{
+text-align: center;
+display: inline-block;
+}
+
+body
+{
+background-color: #393E46;
+}
+
+h1
+{
+    font-size: 4rem;
+    font-family: 'Italic', cursive;
+    color: rgb(24, 236, 52);
+}
+p
+{
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: cursive;
+}
+
+img
+{
+  width: 70%;
+}
+
+footer
+{
+    color: #EEEEEE;
+}
